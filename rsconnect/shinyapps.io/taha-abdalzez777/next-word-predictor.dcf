@@ -1,0 +1,13 @@
+name: next-word-predictor
+title: next-word-predictor
+username:
+account: taha-abdalzez777
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2718662
+bundleId: 3566466
+url: https://taha-abdalzez777.shinyapps.io/next-word-predictor/
+when: 1598604516.97379
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: www/github.png|www/twitter.png
